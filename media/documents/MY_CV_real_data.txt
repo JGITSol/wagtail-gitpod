@@ -1,0 +1,83 @@
+Jędrzej Grabala
+FREELANCE PYTHON PROGRAMMER
+Hello, I'm Jędrzej Grabala - and I'm a 
+JG
+Junior Python developer, with years of experience as a Field Service engineer in various fields, currently looking for a challenging
+opportunity to combine software development skills with domain expertise in a dynamic, technology-driven organization.
+PERSONAL INFO
+ADDRESS
+ul. Szarych Szeregów 24/46
+15-666 Białystok
+PHONE
++48500759624
+EMAIL
+jedrzej.grabala@gmail.com
+GITHUB
+https://github.com/JGITSol
+WEBSITE
+https://jgit.solutions
+SKILLS
+WORK HISTORY
+
+Python
+Created multiple apps with proper local GUI(PySG), Authentication(with Google Cloud, as well as Azure), CRUD operations on files
+and databases, automated data entry proceses.
+Deployment Methods
+Local(*exe), web(streamlit via community cloud), web(Azure),
+Driving license (class B in Poland)
+Gathered many years of experience driving in various countries, both abroad and local.
+Fault diagnostics in compliance with technical documentation
+PC & Electronics field repairs
+Freelancer Programmer (Business owner)
+JGIT Solutions, Augustów, Polska
+https://jgit.solutions
+Project management, creating custom software for PC using Python with a dedicated user interface (web or
+local), creating websites, online stores, and payment gateways.
+2022-11 - present
+Thermographic Measurements Engineer
+SEAM Group Polska sp. z. o o., Warsaw
+Performed thermographic measurements of electrical equipment in different industrial plants across Europe.
+2022-04 - 2022-07
+Field Service Engineer
+Medikol Systems sp z o. o., Poznań
+Installation, maintenance, diagnostics and repairs of various X-ray medical equipment(ranging from mobile xray to CT's), for Samsung and DR GEM (as an official partner), and other brands - mostly legacy systems (out of
+warranty). Performing jobs on a tight schedule, contacting clients and writing technical reports on a daily basis.
+Work done mostly in North-East part of Poland.
+Installation Engineer
+Abplanalp, Warsaw
+Instalation, maintenance, diagnostis and repairs of CNC machines made by HAAS, both lathes and milling
+machines. Conducting training of client's staff on basic operation and maintenance of HAAS products, updating
+software and providing technical support. Work done in Poland (whole territory).
+2019-11 - 2020-04
+Maintenance Engineer
+Keylite RW Poland, Zambrów
+Resolving complex production line issues, writing projects of possible future upgrades to improve machine park,
+scheduling maintenance, supporting mechanics in regards to control engineering faults, training staff on
+maintenance issues of production process. Job placed in Zambrów, Poland.
+2018-08 - 2019-08
+Assistant Surveyor
+FACE Consultants Ltd, Huddersfield
+Performing various test in industrial complexes on concrete floor for compliance with british and international
+standards, calibration of custom made measuring devices, writing technical documentation on done tasks. Work
+done in West Europe- mostly UK, Ireland and Denmark.
+2017-08 - 2018-04
+Installation Technician
+ATLIFT Adam Trypuć/ZEMD Jerzy Trypuć, Białystok
+Instalation and disassembly of lifting devices, schematics based fault diagnostics and repair. Conducting safety
+tests and maintenance in two man teams. Job based in Białystok, Poland.
+2016-09 - 2017-04
+Bialystok University of Technology, majoring in Automation and Robotics, undergraduate stationary
+studies.
+I completed my undergraduate studies in Automation and Robotics with a specialization in Automation and
+Informatization of Industrial Processes, and defended my engineering thesis in June 2017. The title of my thesis
+was "Detection of Driver Fatigue Using Image Analysis."
+2010-10 - 2014-02
+Qualifications: SEP (E) up to 1 KV, driving license category A and B
+English - C1
+French - A1
+"Learn Robot Studio - Industrial Robot Jogging & Programming using Virtual Teach Pendant" done by Prag Robotics 
+2022-02
+"Industrial Robotics - Mathematical models and practical applications" - done by Fabrizio Frigeni
+2022-02
+"Python 3 od Podstaw do Eksperta"("Python 3 from Basics to Expert") -done by mr Arkadiusz Włodarczyk 
+2022-04
